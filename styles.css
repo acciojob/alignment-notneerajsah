@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
-.middle td:nth-child(2){
+#table-1 td:nth-child(2){
 	text-align:center;
 }
-.middle td:nth-child(3){
+#table-1 td:nth-child(3){
 	text-align:right;
 }
+
