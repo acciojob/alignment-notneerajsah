@@ -5,4 +5,11 @@
 #table-1 td:nth-child(3){
 	text-align:right;
 }
+#table-2 {
+    width: 100%;
+    table-layout: fixed;
+}
 
+#table-2 td {
+    height: 20px;
+}
